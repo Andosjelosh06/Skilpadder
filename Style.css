@@ -1,0 +1,94 @@
+.navbar {
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    background-color: #4ab798 ;
+}
+
+.navbarContent {
+    margin: 60px;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.navbar  a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbarMain {
+    margin: 60px;
+    font-size: 60px;
+    color: #ffffff;
+}
+
+h1 {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.mainBilder {
+    padding: 0px 100px 10px 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.innholdBilder {
+    padding: 60px 50px 70px 100px;
+}
+
+.innholdBilderBottom {
+    padding: 20px 50px 40px 100px;
+}
+
+main {
+    background-color: #86ddc4;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #4ab798;
+    color: white;
+}
+
+.informasjon, .food {
+    display: flex;
+    justify-content: space-around;
+}
+
+.innholdInformasjon {
+    padding: 20px 20px 20px 20px;
+    font-size: 22px;
+}
+
+.SpecieInformasjon {
+    color: white;
+    text-decoration: none;
+    padding: 15px 0px 10px 0px;
+    font-size: 25px;
+}
+
+.SpecieInformasjonLeft {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 15px 0px 10px 200px
+}
+
+.SpecieInformasjonRight {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px 200px 10px 0px
+}
+
+.SpecieInformasjonBottom {
+    padding-bottom: 50px;
+}
+
+
+
+  
+  
